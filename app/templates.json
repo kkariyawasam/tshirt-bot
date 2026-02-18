@@ -1,0 +1,47 @@
+{
+  "shirts": [
+    {
+      "id": "tee_black_front",
+      "display_name": "Black T-Shirt (Front)",
+      "template_path": "media/templates/tee_black_front.png",
+      "image_width": 1024,
+      "image_height": 1536,
+      "placements": {
+        "left_chest": {
+          "x": 302,
+          "y": 510,
+          "w": 220,
+          "h": 220,
+          "padding_pct": 0.10,
+          "max_fill_pct": 0.70
+        },
+        "center_chest": {
+          "x": 262,
+          "y": 510,
+          "w": 500,
+          "h": 500,
+          "padding_pct": 0.08,
+          "max_fill_pct": 0.85
+        }
+      }
+    },
+
+       {
+      "id": "tee_black_back",
+      "display_name": "Black T-Shirt (Back)",
+      "template_path": "media/templates/tee_black_back.png",
+      "image_width": 1024,
+      "image_height": 1536,
+      "placements": {    
+        "center_chest": {
+          "x": 262,
+          "y": 510,
+          "w": 500,
+          "h": 500,
+          "padding_pct": 0.08,
+          "max_fill_pct": 0.85
+        }
+      }
+    }
+  ]
+}
