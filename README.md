@@ -33,8 +33,9 @@ Users can:
 
 ---
 
-# 🎬 Demo
+# 🎬 Demo Video
 
-[![Watch the demo](https://www.loom.com/share/d57f2dce5582497e9fb371c898e79897)]
+Watch the full demo here: https://www.loom.com/share/d57f2dce5582497e9fb371c898e79897
+
 
 
